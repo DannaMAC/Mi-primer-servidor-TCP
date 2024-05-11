@@ -4,7 +4,7 @@ Comunicación Bidireccional entre Cliente y Servidor
 
 Un proyecto simple que demuestra la comunicación bidireccional entre múltiples clientes y un servidor utilizando sockets TCP en Node.js.
 
-## Getting Started
+## Empezando
 
 Estas instrucciones te guiarán para configurar el proyecto en tu máquina local con fines de desarrollo y prueba.
 
@@ -26,7 +26,7 @@ Sigue estos pasos para configurar el entorno de desarrollo:
 npm install
 ```
 
-## Ejecutar el Servidor
+### Ejecutar el Servidor
 
 Para ejecutar el servidor, utiliza el siguiente comando:
 
@@ -61,7 +61,7 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para las versiones dispo
 
 ## Autores
 
-* **Danna Maribel Corral Salcedo** - *Initial work* - [DannaMAC](https://github.com/DannaMAC)
+* **Danna Maribel Corral Salcedo** - [DannaMAC](https://github.com/DannaMAC)
 
 ## Licencia
 
