@@ -16,15 +16,14 @@ Para ejecutar este proyecto, necesitas tener Node.js instalado en tu máquina.
 
 Sigue estos pasos para configurar el entorno de desarrollo:
 
-    1.Clona este repositorio en tu máquina local.
+1.Clona este repositorio en tu máquina local.
 
-    2.Navega hasta el directorio del proyecto en tu terminal.
+2.Navega hasta el directorio del proyecto en tu terminal.
 
-    3.Instala las dependencias ejecutando el siguiente comando:
+3.Instala las dependencias ejecutando el siguiente comando:
 
 ```
 npm install
-
 ```
 
 ## Ejecutar el Servidor
@@ -33,7 +32,6 @@ Para ejecutar el servidor, utiliza el siguiente comando:
 
 ```
 node servidor.js
-
 ```
 
 ### Ejecutar los Clientes
@@ -42,7 +40,6 @@ Para ejecutar los clientes, utiliza el siguiente comando:
 
 ```
 node cliente.js
-
 ```
 
 ## Implementación
@@ -51,7 +48,7 @@ Este proyecto puede ser implementado en un sistema en vivo alojando el servidor 
 
 ## Construido Con
 
-*     Node.js - Entorno de ejecución de JavaScript
+*    Node.js - Entorno de ejecución de JavaScript
 *    Sockets TCP - Para la comunicación entre clientes y servidor
 
 ## Contribuir
